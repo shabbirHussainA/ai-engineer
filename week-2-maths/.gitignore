@@ -1,0 +1,17 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Best practice: avoid committing CSVs unless small and critical)
+*.csv
+*.xlsx
+*.parquet
+
+# OS generated files
+.DS_Store
+Thumbs.db
